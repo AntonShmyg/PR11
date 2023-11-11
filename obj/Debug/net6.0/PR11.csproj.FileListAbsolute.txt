@@ -1,0 +1,15 @@
+C:\Progs\SafePO\PR11\bin\Debug\net6.0\PR11.exe
+C:\Progs\SafePO\PR11\bin\Debug\net6.0\PR11.deps.json
+C:\Progs\SafePO\PR11\bin\Debug\net6.0\PR11.runtimeconfig.json
+C:\Progs\SafePO\PR11\bin\Debug\net6.0\PR11.dll
+C:\Progs\SafePO\PR11\bin\Debug\net6.0\PR11.pdb
+C:\Progs\SafePO\PR11\obj\Debug\net6.0\PR11.csproj.AssemblyReference.cache
+C:\Progs\SafePO\PR11\obj\Debug\net6.0\PR11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progs\SafePO\PR11\obj\Debug\net6.0\PR11.AssemblyInfoInputs.cache
+C:\Progs\SafePO\PR11\obj\Debug\net6.0\PR11.AssemblyInfo.cs
+C:\Progs\SafePO\PR11\obj\Debug\net6.0\PR11.csproj.CoreCompileInputs.cache
+C:\Progs\SafePO\PR11\obj\Debug\net6.0\PR11.dll
+C:\Progs\SafePO\PR11\obj\Debug\net6.0\refint\PR11.dll
+C:\Progs\SafePO\PR11\obj\Debug\net6.0\PR11.pdb
+C:\Progs\SafePO\PR11\obj\Debug\net6.0\PR11.genruntimeconfig.cache
+C:\Progs\SafePO\PR11\obj\Debug\net6.0\ref\PR11.dll
